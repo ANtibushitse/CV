@@ -1,0 +1,62 @@
+
+html, body {
+	font-family: 'EB Garamond', serif: ;
+	
+}
+body{
+	
+	height: 0 auto; 
+	width: 80%;
+	margin: 0 auto; 
+	background-color:#f4f7f7 ; 
+}
+h1 {	
+	text-align: center; 
+	color: #8F2D56; 
+	font-size: 42px;
+	line-height: 1,3; 
+}
+h2, h3,h4 {
+	text-align: center; 
+	line-height: 1,3; 
+	color: 	#218380;
+	font-size: 18px
+}
+
+	
+}
+.profile {
+	border: 1px #2EC4B6 solid; 	
+	display: block; 
+	align-content: center;
+	text-align: center; 
+}	
+.infoContact {
+	
+	text-align: center;
+	margin-top: 50px; 
+	margin-bottom: 50px; 
+	
+}
+
+.infoContact li {
+	list-style: none; 
+}
+.experience  li {
+	list-style: none; 
+	text-align: justify; 
+} 
+.competances li{ 
+	
+list-style: none;
+	
+}
+.experience{
+	width: 0 auto; 
+}
+
+.formation li  {
+	list-style: none, 
+	
+}
+
